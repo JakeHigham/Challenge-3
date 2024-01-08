@@ -4,6 +4,10 @@
 
 This week's Challenge required me to modify starter code to create an application that enables you to generate random passwords based on criteria that has been selected via prompts. This app will run in the browser and it adapts to multiple screen sizes. The password can include uppercase and lowercase letters, numbers, and special characters!
 
+## Links
+https://jakehigham.github.io/Challenge-3/ - Deployed application
+https://github.com/JakeHigham/Challenge-3 - Repository link
+
 ## Installation
 
 N/A
