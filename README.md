@@ -33,6 +33,8 @@ https://www.geeksforgeeks.org/how-to-generate-a-random-password-using-javascript
 
 https://stackoverflow.com/questions/1497481/javascript-password-generator
 
+UCD Bootcamp Student Mini-Project for JavaScript - Gave me the basis for creating alerts, prompts, and the math needed
+
 ## Screenshots 
 ![image](https://github.com/JakeHigham/Challenge-3/assets/149442786/50f365ac-bcb0-474b-9721-87aecc47471b)
 ![image](https://github.com/JakeHigham/Challenge-3/assets/149442786/cebd758c-edc4-4422-abad-27f74f61668d)
